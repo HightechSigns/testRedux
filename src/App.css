@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.user-card{
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+  box-shadow: 0 6px 13px rgba(0, 0, 0, 0.205);
+  width: 50%;
+  margin: 10px auto;
+  text-align: left;
+  border-radius: 4px;
+}
